@@ -4,7 +4,7 @@ Work as a frontend developer at [Adevinta Spain](https://github.com/AdevintaSpai
 
 CSS ❤ passionate, coffee addict and standards lover.
 
-Co-organizing [Murcia Frontend 🍋](https://twitter.com/MurciaFrontend).
+Co-organizing [MurciaDev 🍋](https://twitter.com/MurciaDev).
 
 🐦 [Twitter](https://twitter.com/klaufel) / 📸 [Instagram](https://www.instagram.com/klaufel/) / 👨‍💻 [Linkedin](https://www.linkedin.com/in/klaufel/) / 💬 [Talks](https://slides.com/klaufel)
 
